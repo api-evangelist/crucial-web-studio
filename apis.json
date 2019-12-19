@@ -1,0 +1,45 @@
+{
+    "name": "Crucial Web Studio",
+    "description": "",
+    "image": "",
+    "tags": [
+        "agencies",
+        "have api",
+        "web development"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/crucial-web-studio\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Crucial Web Studio",
+            "description": null,
+            "image": "",
+            "humanURL": "http:\/\/www.crucialwebstudio.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/crucial-web-studio-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/crucial-web-studio-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CrucialApps"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.crucialwebstudio.com\/"
+        }
+    ]
+}
